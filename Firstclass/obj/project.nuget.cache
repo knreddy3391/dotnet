@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "siOi/jc6FTzBUQP7bOC/QXOuveTiTZ2hkKMiij+NcEWvlOaMNYlVQ7srS8/NzpMTnCFseSs6rBHyVqTwirXGag==",
+  "success": true,
+  "projectFilePath": "E:\\Azure Repo\\Firstclass\\Firstclass\\Firstclass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\knred\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
